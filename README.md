@@ -4,5 +4,6 @@
 
 # Demo Page:
 
-![images/Screenshot (20).png](https://raw.githubusercontent.com/Shivanand1999/MyMusicApp/master/images/Screenshot (20).png/1.png)
+![Screenshot](https://github.com/Shivanand1999/MyMusicApp/blob/cf1b512d5b907f0f53c6734a14770f3cc6ecafcf/images/Screenshot%20(20).png)
+
 
